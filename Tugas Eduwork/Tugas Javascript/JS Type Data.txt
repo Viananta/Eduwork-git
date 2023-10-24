@@ -1,0 +1,10 @@
+Tipe data dari variabel-variabel yang disebutkan adalah sebagai berikut:
+
+let length = 16;
+// Tipe data dari length adalah number karena nilainya adalah angka.
+
+let lastname = "Johnson";
+// Tipe data dari lastname adalah string karena nilainya adalah teks.
+
+const x = { firstname: "John", lastname: "Doe" };
+// Tipe data dari x adalah object karena nilainya adalah objek JavaScript. Objek ini memiliki dua properti: firstname dan lastname, dan masing-masing properti memiliki nilai bertipe string.
